@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+body{
+    margin: 40px;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+h3, ul{
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.class{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+dt,dd{
+    padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.begin{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
